@@ -1,4 +1,4 @@
-# Hi, I'm Adaugo Akaluso 
+# Hi, I'm Adaugo Akaluso 👋
 
 **AI · Design · Product · Marketing**
 
