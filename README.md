@@ -31,5 +31,4 @@ Currently exploring AI agents, interactive web experiences, and product strategy
 
 ### Let's Connect
 
-📫 **adaugo.akaluso@gmail.com**
 🔗 **[adaugo-akaluso.vercel.app](https://adaugo-akaluso.vercel.app)**
