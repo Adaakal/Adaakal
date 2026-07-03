@@ -12,8 +12,6 @@ Currently exploring AI agents, interactive web experiences, and product strategy
 
 🤖 **[AI Text Analysis Agent](https://github.com/Adaakal/ai-text-analysis-agent)** — A LangGraph-based AI agent that classifies, extracts entities from, and summarizes text documents. Built with Python, LangGraph, and GPT-4o-mini.
 
-🌍 **[World Trivia TV](https://github.com/Adaakal/world-trivia-tv)** · [Live Demo](https://world-trivia-tv.vercel.app) — An interactive trivia web app built with Next.js, TypeScript, and Tailwind CSS.
-
 ⚡ **[Energy-Based Day](https://github.com/Adaakal/energy-based-day)** · [Live Demo](https://energy-based-day.vercel.app) — A Next.js web app for energy-aware daily planning. TypeScript, React, and Vercel.
 
 🎨 **[Portfolio Site](https://github.com/Adaakal/adaugo-akaluso)** · [Live Site](https://adaugo-akaluso.vercel.app) — My personal portfolio. HTML + Vercel.
