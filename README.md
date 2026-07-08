@@ -14,7 +14,7 @@ Currently exploring AI agents, interactive web experiences, and product strategy
 
 ⚡ **[Energy-Based Day](https://github.com/Adaakal/energy-based-day)** · [Live Demo](https://energy-based-day.vercel.app) — A Next.js web app for energy-aware daily planning. TypeScript, React, and Vercel.
 
-🎨 **[Portfolio Site](https://github.com/Adaakal/adaugo-akaluso)** · [Live Site](https://adaugo-akaluso.vercel.app) — My personal portfolio. HTML + Vercel.
+
 
 ---
 
@@ -29,4 +29,4 @@ Currently exploring AI agents, interactive web experiences, and product strategy
 
 ### Let's Connect
 
-🔗 **[adaugo-akaluso.vercel.app](https://adaugo-akaluso.vercel.app)**
+
