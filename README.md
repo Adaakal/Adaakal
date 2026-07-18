@@ -12,9 +12,7 @@ Currently exploring AI agents, interactive web experiences, and product strategy
 
 🤖 **[AI Text Analysis Agent](https://github.com/Adaakal/ai-text-analysis-agent)** — A LangGraph-based AI agent that classifies, extracts entities from, and summarizes text documents. Built with Python, LangGraph, and GPT-4o-mini.
 
-⚡ **[Energy-Based Day](https://github.com/Adaakal/energy-based-day)** · [Live Demo](https://energy-based-day.vercel.app) — A Next.js web app for energy-aware daily planning. TypeScript, React, and Vercel.
-
-
+**More to Come**
 
 ---
 
