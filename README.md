@@ -27,4 +27,5 @@ Currently exploring AI agents, interactive web experiences, and product strategy
 
 ### Let's Connect
 
+**[LinkedIn](https://www.linkedIn.com/in/adaugo-akaluso)**
 
